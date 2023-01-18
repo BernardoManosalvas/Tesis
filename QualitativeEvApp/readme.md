@@ -1,2 +1,3 @@
-OutSystems app = oml \n
+OutSystems app = oml 
+
 Mendix app = 2-part rar files
